@@ -1,3 +1,4 @@
 # Default Yml file
-  application:
-    name: PRODUCT-SERVICE
+ spring:
+  application: 
+   name: PRODUCT-SERVICE
