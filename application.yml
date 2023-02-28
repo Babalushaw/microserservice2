@@ -1,4 +1,3 @@
 # Default Yml file
-this:
- test: test1
-  
+application:
+ name: CONFIG-SERVER
